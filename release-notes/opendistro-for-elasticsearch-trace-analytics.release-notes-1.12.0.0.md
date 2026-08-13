@@ -1,4 +1,4 @@
-## 2020-12-7 Version 1.12.0.0(test)
+## 2020-12-7 Version 1.12.0.0
 
 
 ### Features
